@@ -1,0 +1,234 @@
+body{
+    background-color:chocolate;
+}
+.navbar{
+    text-transform: capitalize;
+     text-align: right;
+     overflow-x: hidden;
+    
+}
+.page{
+    background-color: beige;
+    height:400px;
+    margin-top: -16%;
+}
+.paragraph p{
+    text-align: center;
+    margin-top: -1%;
+}
+.paragraph h1{
+    text-align: center;
+    margin-top: 20%;
+}
+.paragraph h2{
+    background-color: pink;
+    width: 10%;
+    border-radius: 10%;
+    margin-left: 40%;
+}
+.paragraph img{
+    margin-top: -10%;
+}
+.image{
+    margin-left: 65%;
+    margin-top: -27%;
+}
+.story{
+    background-color: aqua;
+    width: 400px;
+}
+.story h1{
+    margin-left: 10%;
+}
+.story p{
+    margin-left:5% ;
+}
+.story h2{
+    margin-left: 10%;
+    background-color: pink;
+    width: 30%;
+    border-radius: 15%;
+
+}
+.pic{
+    margin-left: 60%;
+    margin-top: -10%;
+}
+.para{
+    background-color: beige;
+}
+.caak{
+    display: flex;
+    margin-left: 10px;
+  }
+.part1{
+    background-color:blanchedalmond;
+    margin-bottom: 20%;
+}
+.part1 p{
+    text-align: center;
+}
+.part1 h2{
+    text-align: center;
+}
+.pic1{
+    margin-left: 4%; 
+    }
+    .pic2{
+    margin-left: 7%;
+
+    }
+    .pic3{
+      margin-left: 5%;
+      margin-bottom: 5%;
+    }
+    .cakes{
+        display: flex;
+        margin-left: 10px;
+      }
+      .cake{
+        display: flex;
+        margin-left: 10px;
+      }
+      .pic1{
+        margin-left: 4%; 
+        }
+        .pic2{
+        margin-left: 7%;
+    
+        }
+        .pic3{
+          margin-left: 5%;
+          margin-bottom: 5%;
+        }
+        .part2{
+            background-color:blanchedalmond;
+            margin-top: -18%;
+        }
+        .part2 h2{
+            text-align: center;
+        }
+        .Cakes{
+            display: flex;
+            margin-left: 10px;
+          }
+          .cake{
+            display: flex;
+            margin-left: 10px;
+          }
+          .pic1{
+            margin-left: 4%; 
+            }
+            .pic2{
+            margin-left: 7%;
+        
+            }
+            .pic3{
+              margin-left: 5%;
+              margin-bottom: 5%;
+            }
+            .part3{
+                background-color:blanchedalmond;
+                margin-bottom: 20%;
+
+            }
+            .part3 h2{
+                text-align: center;
+            }
+             .lastq{
+                background-color: blanchedalmond;
+                margin-top:-18%;
+            } 
+            .make{
+                margin-left:66% ;
+                margin-top: -4%;
+    
+            }
+            .full{
+            margin-left:50% ;
+            margin-bottom: 3%;
+            font-size: 20px;
+            color: blue;
+            }
+            .tech{
+            margin-left: 50%;
+            margin-top:-1%;
+            font-size: 20px;
+            color: blue;
+            
+            }
+            .them{
+            margin-left: 50%;
+            margin-top: 3%;
+            font-size: 20px;
+            color: blue;
+            }
+ .imgc{
+margin-top:-10%; 
+margin-left: 4%;
+} 
+.lastq h1{
+    text-align: center;
+    margin-left: -10%;
+}
+.lastq h2{
+    margin-left: 30%;
+    color: chocolate;
+}
+.lastq h3{
+    margin-left: 40%;
+    margin-top: -3.4%;
+    font-size: large;
+    color: blue;
+}
+.lastq h4{
+    margin-left: 53%;
+    margin-top: -3.2%;
+    font-size:large;
+    color: chocolate;
+}
+.lastq h5{
+    margin-left: 63%;
+    margin-top: -3.5%;
+    font-size:large;
+    color: blue;
+}
+.contact h1{
+    margin-left: 80%;
+    color: blue;
+}
+.contact p{
+    margin-left: 80%;
+}
+.submit h3{
+background-color: pink;
+margin-left: 80%;
+border-radius: 10px;
+width: 100px;
+margin-top: -5%;
+font-size: 30px;
+}
+.contact{
+    background-color: blanchedalmond;
+    height: 400px;
+}
+.name{
+    font-size: 20px;
+    color: red;
+}
+.email{
+    font-size: 20px;
+    color: red;
+}
+.give{
+    font-size: 20px;
+    width: 170px;
+    color: red;
+}
+.mobile{
+    font-size: 20px;
+    margin-top: -30%;
+    color: red;
+}
+
+            
